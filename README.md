@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning basic problem solving as well as devloping myself
 - 💞️ Always ready to collaborate on ANY open-source projects(C++, python, javascript, react etc.)
 - 📫 Contact, mail me on raviprasanth45@gmail.com
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ptech12&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 ptech12/ptech12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
