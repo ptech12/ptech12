@@ -10,7 +10,12 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ptech12&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptech12&layout=compact" />
 </div>
-<!---
+<details>
+<h1>Popular Repository</h1>
+                 
+[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ptech12&repo=onlinejobportal&theme=monokai)](https://github.com/ryo-ma/covid19-japan-web-api)
+</details>
+  <!---
 ptech12/ptech12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
