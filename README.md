@@ -13,7 +13,9 @@
 <details>
 <h1>Popular Repository</h1>
                  
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ptech12&repo=onlinejobportal&theme=monokai)](https://github.com/ryo-ma/covid19-japan-web-api)
+[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ptech12&repo=onlinejobportal&theme=monokai)](https://github.com/ptech12/onlinejobportal)
+
+[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=ptech12&repo=PySnake&theme=monokai)](https://github.com/ptech12/PySnake)
 </details>
   <!---
 ptech12/ptech12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
