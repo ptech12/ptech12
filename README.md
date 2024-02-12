@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Prasanth a.k.a @ptech12 
+<h1 align="center">Hola👋! I’m Prasanth </h1>
+<h3 align="center">Beyond Bits and Bytes: ptech12 Expedition</h3>
+
+
+
 - 👀 I’m interested in creating Hacking tools and Problem Solving, Full Stack development 
 - 🌱 I’m currently learning basic problem solving as well as devloping myself
 - 💞️ Always ready to collaborate on ANY open-source projects(C++, python, javascript, react etc.)
@@ -35,13 +39,14 @@
 
 
 <a href="https://github.com/ptech12/">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-jacke&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptech12&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
 </a>
 
 
 
 
 ## Thank You.. :)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptech12&label=Profile%20views&color=0e75b6&style=flat" alt="ptech12" /> </p>
 <details>
 
 <h1>Popular Repository</h1>
